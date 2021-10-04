@@ -1,0 +1,83 @@
+[
+  {
+    "id": "1",
+    "name": "Guitar classes",
+    "description": "Guitar is a one-semester course covering the basics of the instrument and an application of essential music fundamentals. ... The main objective of this course is to create an enhanced appreciation for music through playing the guitar. Students will learn how to read music notation, chord symbols, and tablature.",
+    "duration": "3",
+    "amount": "3000",
+    "image": "https://sticktoroots.eu/upload/portfolio/GuitarTraining.jpg",
+    "rating": "4"
+  },
+  {
+    "id": "2",
+    "name": "Violin classes",
+    "description": "The individual violin lessons are highly personalized course tailored to the progress and learning ability of each student. Emphasis is placed on developing good posture and ease of movements at the early stage. Students will then continue to revise and enhance their technique while taking on more challenging repertoire as they progress.",
+    "duration": "5",
+    "amount": "4000",
+    "image": "https://www.bookgara.com/uploads/image/medium-1617261310violin.jpg",
+    "rating": "5"
+  },
+  {
+    "id": "3",
+    "name": "Winds classes",
+    "description": "A wind instrument is a musical instrument that contains some type of resonator (usually a tube) in which a column of air is set into vibration by the player blowing into (or over) a mouthpiece set at or near the end of the resonator.",
+    "duration": "5",
+    "amount": "12000",
+    "image": "http://learn.podium.school/wp-content/uploads/2021/02/boy-playing-a-wind-instrument.png",
+    "rating": "3.9"
+  },
+  {
+    "id": "4",
+    "name": "Piono classes",
+    "description": "Piano/Keyboard lessons for beginners focus on piano basics; learning to read notes, read rhythms, play scales, play basic chords and other tools essential to play any style of music. ... Students are able to choose part of their repertoire based on what they enjoy, making lessons exciting and motivating.",
+    "duration": "6",
+    "amount": "5000",
+    "image": "https://www.sweetwater.com/insync/media/2020/09/Best-Beginner-Keyboards-for-Learning-Piano-Featured-Image.jpg",
+    "rating": "4"
+  },
+  {
+    "id": "5",
+    "name": "Drum classes",
+    "description": "School of Rock offers simple yet effective drum lessons for beginners that bypass entry-level pad training. Students get behind a drum kit during their first lesson to start learning how to play the drums. Through private drum lessons, group rehearsals, and live performances, students will learn introductory rudiments to drum fills and solos.",
+    "duration": "3",
+    "amount": "7000",
+    "image": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/how-playing-the-drums-changes-the-brain-328265.jpg",
+    "rating": "3"
+  },
+  {
+    "id": "6",
+    "name": "Vocal classes",
+    "description": "Vocal music is a type of singing performed by one or more singers, either with instrumental accompaniment, or without instrumental accompaniment (a cappella), in which singing provides the main focus of the piece.",
+    "duration": "8",
+    "amount": "10000",
+    "image": "https://melodica.ae/wp-content/uploads/2019/04/importance-of-vocal-training.jpg",
+    "rating": "4"
+  },
+  {
+    "id": "7",
+    "name": "Saxophone classes",
+    "description": "The holes are closed by leather pads attached to keys operated by the player. Saxophones are made in various sizes and are almost always treated as transposing instruments. Saxophone players are called saxophonists.",
+    "duration": "7",
+    "amount": "7000",
+    "image": "https://www.howcast.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTU5NzA0MzU3MzM5NDA3NDY1/ze-how-to-play-b-flat-major-scale--g-minor-on-the-sax-promo-image.jpg",
+    "rating": "3"
+  },
+  {
+    "id": "8",
+    "name": "Flute classes",
+    "description": "A flute can be described as a woodwind instrument, generally of a tubular shape, that is played by blowing across a specially-shaped opening (known as the embouchure) in such a way as to produce a vibrating column of air whose pulsations we hear as sound.",
+    "duration": "8",
+    "amount": "4000",
+    "image": "https://i.pinimg.com/736x/67/f5/fc/67f5fccdb4ef58eae0fe279eeed449d0--kids-playing-photo-search.jpg",
+    "rating": "4"
+  },
+  {
+    "id": "9",
+    "name": "Cello classes",
+    "description": "Playing the cello is done while seated with the instrument supported on the floor by the endpin. The right hand bows (or sometimes plucks) the strings to sound the notes.",
+    "duration": "4.5",
+    "amount": "12000",
+    "image": "https://indiebandguru.com/wp-content/uploads/2019/07/cello-gorl.jpg",
+    "rating": "5"
+  }
+]

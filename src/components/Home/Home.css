@@ -1,0 +1,22 @@
+.join-us {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.topbanner {
+  background-color: #219ebc;
+}
+.join-us img {
+  margin: 20px;
+  padding: 30px;
+  width: 50%;
+}
+
+.text-bar {
+  color: #ffeacf;
+  margin-left: 150px;
+  padding-left: 80px;
+}
+.fontText {
+  font-size: 120px;
+}

@@ -1,0 +1,36 @@
+.join-us {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.aboutbanner {
+  background-color: #2e8fc2;
+}
+.join-us img {
+  margin: 20px;
+  padding: 30px;
+  width: 50%;
+}
+
+.text-bar {
+  color: #ffeacf;
+  margin-left: 150px;
+  padding-left: 80px;
+}
+
+.about-head {
+  font-family: cursive;
+  font-size: 50px;
+}
+
+.origin-stroy {
+  max-width: 950px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+.origin-text {
+  color: #242331;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+

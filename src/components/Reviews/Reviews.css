@@ -1,0 +1,19 @@
+.join-us {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reviewbanner {
+  background-color: #24cdb4;
+}
+.join-us img {
+  margin: 20px;
+  padding: 30px;
+  width: 50%;
+}
+
+.text-bar {
+  color: #ffeacf;
+  margin-left: 150px;
+  padding-left: 80px;
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Ashik Ghosh",
+    "review": "I am a very hard-working person but I could not find the right path to success, This institute has guided me on the right path with utmost care. Their education system is so beautiful that it cannot be expressed in words. The institute has awakened the latent talents in me.",
+    "courseName": "Guitar classes",
+
+    "image": "https://i.pravatar.cc/400?img=69"
+  },
+  {
+    "id": "2",
+    "name": "Juwel Das",
+    "review": "I am from a different engineering background. The overall course structure of team is pretty well organized. Working on various projects as assignments helped solidify the knowledge of the new topics that I learnt here. Would highly recommend this course.",
+    "courseName": "Drum classes",
+
+    "image": "https://i.pravatar.cc/400?img=70"
+  },
+  {
+    "id": "3",
+    "name": "Pavel Ghosh",
+    "review": "I will always be thankful to the  team. Their guideline, support, motivation, especially the process of their mentoring system outstanding.",
+    "courseName": "Piano classes",
+
+    "image": "https://i.pravatar.cc/400?img=53"
+  },
+  {
+    "id": "4",
+    "name": "Anik Das",
+    "review": "Thanks a Lot to the Team, because they are also a fun and personalized platform. in this day, my dream is also full fill.",
+    "courseName": "Vocal classes",
+
+    "image": "https://i.pravatar.cc/400?img=52"
+  },
+  {
+    "id": "5",
+    "name": "Rana Islam",
+    "review": "Firstly I thanks, Almighty Allah. Then the  team. They build me a soldier. Now I can face any problem that will come into my life. They help to overcome any situation. Not only for Guitar but also in my real life. I am very grateful to them",
+    "courseName": "Guitar classes",
+
+    "image": "https://i.pravatar.cc/400?img=51"
+  },
+  {
+    "id": "6",
+    "name": "Md Moniruzzaman Sojol",
+    "review": "The beginning of my programming life when Corona was blust. The varsity closed, spending time in laziness. Suddenly it occurred to me to learn to program and create an app for my department.",
+    "courseName": "Flute classes",
+
+    "image": "https://i.pravatar.cc/400?img=50"
+  }
+]
