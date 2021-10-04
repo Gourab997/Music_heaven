@@ -28,7 +28,7 @@ const Service = (props) => {
                     readonly
                   ></Rating>
                 </h6>
-                <h5>{amount} Taka</h5>
+                <h5 className='text-center'>{amount} Taka</h5>
               </div>
             </div>
           </div>
